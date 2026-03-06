@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://vijayelectronic.github.io/home-electronics-and-electric-service-center-unnao/sitemap.xml
